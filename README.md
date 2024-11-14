@@ -1,3 +1,3 @@
 # Unix_shellscript_dbrefresh
 Oracle Db schema_refresh
-Author - Siddhartha Bikash Sinha
+Author - Siddhartha Bikash Sinha (Oracle DBA)
